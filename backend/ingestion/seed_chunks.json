@@ -1,0 +1,342 @@
+[
+  {
+    "id": "kb-cdc-routines-001",
+    "text": "Establishing consistent daily routines helps young children feel secure. Predictable sequences for waking, meals, play, and bedtime reduce anxiety. Use simple visual schedules with pictures so children can anticipate what comes next. Praise small steps toward independence.",
+    "metadata": {
+      "topic": "routines",
+      "audience": "parent",
+      "age_band": "all",
+      "source": "CDC",
+      "risk_level": "normal_guidance",
+      "language": "en",
+      "title": "CDC Positive Parenting — Routines",
+      "source_url": "https://www.cdc.gov/child-development/positive-parenting-tips/index.html",
+      "publication_date": "2024-01-01",
+      "licence_or_terms": "US CDC public domain",
+      "reviewed_at": "2025-09-01"
+    }
+  },
+  {
+    "id": "kb-cdc-separation-002",
+    "text": "Separation anxiety is common in preschoolers. Keep goodbyes brief and consistent. Establish a ritual (hug, wave, special phrase). Assure the child you will return. Teachers can engage the child in a favourite activity immediately. Most children settle within minutes when routines are predictable.",
+    "metadata": {
+      "topic": "behaviour",
+      "audience": "both",
+      "age_band": "3_years",
+      "source": "CDC",
+      "risk_level": "normal_guidance",
+      "language": "en",
+      "title": "CDC — Separation Anxiety",
+      "source_url": "https://www.cdc.gov/child-development/positive-parenting-tips/index.html",
+      "publication_date": "2024-01-01",
+      "licence_or_terms": "US CDC public domain",
+      "reviewed_at": "2025-09-01"
+    }
+  },
+  {
+    "id": "kb-ncert-play-003",
+    "text": "Play is the primary mode of learning for children aged 3–6. Free play, guided play, and structured activities should balance across the day. Adults scaffold learning by asking open-ended questions, narrating actions, and providing varied materials. Avoid rushing children through play to meet academic targets.",
+    "metadata": {
+      "topic": "play",
+      "audience": "teacher",
+      "age_band": "4_years",
+      "source": "NCERT",
+      "risk_level": "normal_guidance",
+      "language": "en",
+      "title": "NCERT Preschool Curriculum — Play",
+      "source_url": "https://www.ncert.nic.in/",
+      "publication_date": "2023-06-01",
+      "licence_or_terms": "NCERT open educational resource",
+      "reviewed_at": "2025-09-01"
+    }
+  },
+  {
+    "id": "kb-pbis-turn-taking-004",
+    "text": "Teach turn-taking explicitly using visual timers, turn cards, and modelling. Start with very short turns (30 seconds) and gradually increase. Reinforce waiting behaviour with specific praise: 'You waited for your turn — that was patient.' Pair children with similar interests for cooperative play.",
+    "metadata": {
+      "topic": "behaviour",
+      "audience": "teacher",
+      "age_band": "4_years",
+      "source": "PBIS",
+      "risk_level": "normal_guidance",
+      "language": "en",
+      "title": "PBIS — Teaching Social Skills",
+      "source_url": "https://www.pbis.org/resource-type/materials",
+      "publication_date": "2024-03-01",
+      "licence_or_terms": "PBIS open materials",
+      "reviewed_at": "2025-09-01"
+    }
+  },
+  {
+    "id": "kb-casel-communication-005",
+    "text": "Strong parent-teacher partnerships support children's social-emotional learning. Share observations factually without blame. Use 'I notice' statements. Schedule regular check-ins. Celebrate progress together. When concerns arise, focus on the child's needs rather than assigning fault.",
+    "metadata": {
+      "topic": "communication",
+      "audience": "both",
+      "age_band": "all",
+      "source": "CASEL",
+      "risk_level": "normal_guidance",
+      "language": "en",
+      "title": "CASEL — Family-School Partnership",
+      "source_url": "https://casel.org/fundamentals-of-sel/",
+      "publication_date": "2024-01-01",
+      "licence_or_terms": "CASEL educational use",
+      "reviewed_at": "2025-09-01"
+    }
+  },
+  {
+    "id": "kb-wwc-behaviour-006",
+    "text": "Positive behaviour interventions for young children include teaching expected behaviours, providing frequent feedback, and arranging the environment to prevent problems. Redirect rather than punish. Use logical consequences connected to the behaviour. Document patterns to identify triggers.",
+    "metadata": {
+      "topic": "behaviour",
+      "audience": "teacher",
+      "age_band": "all",
+      "source": "WWC",
+      "risk_level": "normal_guidance",
+      "language": "en",
+      "title": "WWC Behaviour Interventions Practice Guide",
+      "source_url": "https://ies.ed.gov/ncee/wwc/docs/practiceguide/behavioral-interventions-practice-guide_v3a_508a.pdf",
+      "publication_date": "2023-09-01",
+      "licence_or_terms": "US Government public domain",
+      "reviewed_at": "2025-09-01"
+    }
+  },
+  {
+    "id": "kb-manodarpan-anxiety-007",
+    "text": "Young children may show anxiety through clinginess, tummy aches, or refusal to attend school. Maintain calm routines, validate feelings ('I see you're worried'), and avoid lengthy negotiations at drop-off. Gradual exposure and teacher collaboration help most children adjust within a few weeks.",
+    "metadata": {
+      "topic": "behaviour",
+      "audience": "parent",
+      "age_band": "4_years",
+      "source": "Manodarpan",
+      "risk_level": "normal_guidance",
+      "language": "en",
+      "title": "Manodarpan — Anxiety in Young Children",
+      "source_url": "https://manodarpan.education.gov.in/",
+      "publication_date": "2024-06-01",
+      "licence_or_terms": "Government of India educational resource",
+      "reviewed_at": "2025-09-01"
+    }
+  },
+  {
+    "id": "kb-ncpcr-safety-008",
+    "text": "Schools must maintain child-safe environments. Staff are trained to recognise signs of abuse or neglect and follow mandatory reporting procedures. Children are taught safe/unsafe touch concepts in age-appropriate ways. Concerns are escalated to the designated child protection officer immediately.",
+    "metadata": {
+      "topic": "safeguarding",
+      "audience": "teacher",
+      "age_band": "all",
+      "source": "NCPCR",
+      "risk_level": "refer_to_counsellor",
+      "language": "en",
+      "title": "NCPCR Education Guidelines — Child Safety",
+      "source_url": "https://ncpcr.gov.in/public/education-guidelines",
+      "publication_date": "2023-01-01",
+      "licence_or_terms": "NCPCR public guidelines",
+      "reviewed_at": "2025-09-01"
+    }
+  },
+  {
+    "id": "kb-cdc-language-009",
+    "text": "Language development in ages 2–5 grows through conversation, songs, rhymes, and shared book reading. Respond to children's communication attempts. Expand their sentences naturally ('Yes, that's a big red truck!'). Limit screen time and prioritise face-to-face interaction.",
+    "metadata": {
+      "topic": "language",
+      "audience": "parent",
+      "age_band": "2_years",
+      "source": "CDC",
+      "risk_level": "normal_guidance",
+      "language": "en",
+      "title": "CDC — Language Development",
+      "source_url": "https://www.cdc.gov/child-development/positive-parenting-tips/index.html",
+      "publication_date": "2024-01-01",
+      "licence_or_terms": "US CDC public domain",
+      "reviewed_at": "2025-09-01"
+    }
+  },
+  {
+    "id": "kb-ncert-numeracy-010",
+    "text": "Early numeracy develops through everyday experiences: counting snacks, comparing sizes, sorting shapes, and pattern games. Use concrete materials — blocks, beads, fingers. Avoid worksheets for young children. Connect maths to play and daily routines.",
+    "metadata": {
+      "topic": "numeracy",
+      "audience": "teacher",
+      "age_band": "5_years",
+      "source": "NCERT",
+      "risk_level": "normal_guidance",
+      "language": "en",
+      "title": "NCERT — Early Numeracy",
+      "source_url": "https://www.ncert.nic.in/",
+      "publication_date": "2023-06-01",
+      "licence_or_terms": "NCERT open educational resource",
+      "reviewed_at": "2025-09-01"
+    }
+  },
+  {
+    "id": "kb-pbis-tantrums-011",
+    "text": "Tantrums are normal in preschoolers as they learn to manage emotions. Stay calm, ensure safety, and wait for the peak to pass. Name the feeling: 'You're frustrated because the tower fell.' Teach alternative strategies during calm moments. Avoid giving in to demands made during a tantrum.",
+    "metadata": {
+      "topic": "behaviour",
+      "audience": "parent",
+      "age_band": "3_years",
+      "source": "PBIS",
+      "risk_level": "normal_guidance",
+      "language": "en",
+      "title": "PBIS — Managing Challenging Behaviour",
+      "source_url": "https://www.pbis.org/resource-type/materials",
+      "publication_date": "2024-03-01",
+      "licence_or_terms": "PBIS open materials",
+      "reviewed_at": "2025-09-01"
+    }
+  },
+  {
+    "id": "kb-casel-emotions-012",
+    "text": "Help children identify and label emotions using books, mirrors, and emotion cards. Model coping strategies: deep breaths, counting, asking for help. Create a calm corner with soft materials. Validate all feelings while setting limits on behaviour.",
+    "metadata": {
+      "topic": "sel",
+      "audience": "both",
+      "age_band": "4_years",
+      "source": "CASEL",
+      "risk_level": "normal_guidance",
+      "language": "en",
+      "title": "CASEL — Emotion Regulation",
+      "source_url": "https://casel.org/fundamentals-of-sel/",
+      "publication_date": "2024-01-01",
+      "licence_or_terms": "CASEL educational use",
+      "reviewed_at": "2025-09-01"
+    }
+  },
+  {
+    "id": "kb-wwc-literacy-013",
+    "text": "Pre-literacy skills include phonological awareness, print knowledge, and vocabulary. Read aloud daily, point to words, sing alphabet songs, and provide writing materials. Let children see adults reading. Make literacy playful — not pressured.",
+    "metadata": {
+      "topic": "literacy",
+      "audience": "parent",
+      "age_band": "4_years",
+      "source": "WWC",
+      "risk_level": "normal_guidance",
+      "language": "en",
+      "title": "WWC — Early Literacy",
+      "source_url": "https://ies.ed.gov/ncee/wwc/",
+      "publication_date": "2023-09-01",
+      "licence_or_terms": "US Government public domain",
+      "reviewed_at": "2025-09-01"
+    }
+  },
+  {
+    "id": "kb-cdc-biting-014",
+    "text": "Biting in toddlers and preschoolers often signals frustration, teething, or need for sensory input. Respond firmly but calmly: 'Biting hurts. We use words.' Teach replacement behaviours. Supervise closely during transitions. Inform parents factually without shaming.",
+    "metadata": {
+      "topic": "behaviour",
+      "audience": "teacher",
+      "age_band": "2_years",
+      "source": "CDC",
+      "risk_level": "normal_guidance",
+      "language": "en",
+      "title": "CDC — Biting in Young Children",
+      "source_url": "https://www.cdc.gov/child-development/positive-parenting-tips/index.html",
+      "publication_date": "2024-01-01",
+      "licence_or_terms": "US CDC public domain",
+      "reviewed_at": "2025-09-01"
+    }
+  },
+  {
+    "id": "kb-manodarpan-routines-015",
+    "text": "A consistent morning routine reduces preschool drop-off stress. Prepare the night before: lay out clothes, pack the bag, discuss the next day. Wake with enough time to avoid rushing. Use a visual checklist. A calm parent helps create a calm child.",
+    "metadata": {
+      "topic": "routines",
+      "audience": "parent",
+      "age_band": "4_years",
+      "source": "Manodarpan",
+      "risk_level": "normal_guidance",
+      "language": "en",
+      "title": "Manodarpan — Morning Routines",
+      "source_url": "https://manodarpan.education.gov.in/",
+      "publication_date": "2024-06-01",
+      "licence_or_terms": "Government of India educational resource",
+      "reviewed_at": "2025-09-01"
+    }
+  },
+  {
+    "id": "kb-pbis-sharing-016",
+    "text": "Sharing is a learned skill, not an innate one. Provide duplicate toys when possible. Use timers for turns. Teach requesting language: 'Can I have a turn?' Model sharing in adult interactions. Praise sharing behaviour specifically.",
+    "metadata": {
+      "topic": "behaviour",
+      "audience": "both",
+      "age_band": "3_years",
+      "source": "PBIS",
+      "risk_level": "normal_guidance",
+      "language": "en",
+      "title": "PBIS — Teaching Sharing",
+      "source_url": "https://www.pbis.org/resource-type/materials",
+      "publication_date": "2024-03-01",
+      "licence_or_terms": "PBIS open materials",
+      "reviewed_at": "2025-09-01"
+    }
+  },
+  {
+    "id": "kb-ncert-inclusion-017",
+    "text": "Inclusive classrooms welcome all children regardless of ability. Adapt activities so every child can participate. Use multi-sensory materials. Partner with special educators early when concerns arise. Focus on strengths and progress, not deficits.",
+    "metadata": {
+      "topic": "inclusion",
+      "audience": "teacher",
+      "age_band": "all",
+      "source": "NCERT",
+      "risk_level": "normal_guidance",
+      "language": "en",
+      "title": "NCERT — Inclusive Early Childhood",
+      "source_url": "https://www.ncert.nic.in/",
+      "publication_date": "2023-06-01",
+      "licence_or_terms": "NCERT open educational resource",
+      "reviewed_at": "2025-09-01"
+    }
+  },
+  {
+    "id": "kb-casel-conflict-018",
+    "text": "When children conflict during play, adults can coach problem-solving: each child shares their view, brainstorm solutions together, agree on one to try. Avoid taking sides. Teach 'I feel… when…' statements. Review whether the solution worked.",
+    "metadata": {
+      "topic": "behaviour",
+      "audience": "teacher",
+      "age_band": "5_years",
+      "source": "CASEL",
+      "risk_level": "normal_guidance",
+      "language": "en",
+      "title": "CASEL — Conflict Resolution",
+      "source_url": "https://casel.org/fundamentals-of-sel/",
+      "publication_date": "2024-01-01",
+      "licence_or_terms": "CASEL educational use",
+      "reviewed_at": "2025-09-01"
+    }
+  },
+  {
+    "id": "kb-wwc-attention-019",
+    "text": "Short attention spans are developmentally normal for preschoolers. Break activities into 10–15 minute segments. Use movement breaks. Reduce distractions. Engage multiple senses. If attention concerns persist beyond age expectations, discuss with a paediatrician.",
+    "metadata": {
+      "topic": "behaviour",
+      "audience": "parent",
+      "age_band": "5_years",
+      "source": "WWC",
+      "risk_level": "normal_guidance",
+      "language": "en",
+      "title": "WWC — Attention in Early Childhood",
+      "source_url": "https://ies.ed.gov/ncee/wwc/",
+      "publication_date": "2023-09-01",
+      "licence_or_terms": "US Government public domain",
+      "reviewed_at": "2025-09-01"
+    }
+  },
+  {
+    "id": "kb-ncpcr-bullying-020",
+    "text": "Schools should have clear anti-bullying policies. Bullying includes repeated harm, power imbalance, and intent to hurt. Report concerns to the designated teacher or child protection officer. Document incidents. Support both the child experiencing bullying and restorative processes.",
+    "metadata": {
+      "topic": "bullying",
+      "audience": "both",
+      "age_band": "all",
+      "source": "NCPCR",
+      "risk_level": "refer_to_counsellor",
+      "language": "en",
+      "title": "NCPCR — Anti-Bullying Guidelines",
+      "source_url": "https://ncpcr.gov.in/public/education-guidelines",
+      "publication_date": "2023-01-01",
+      "licence_or_terms": "NCPCR public guidelines",
+      "reviewed_at": "2025-09-01"
+    }
+  }
+]

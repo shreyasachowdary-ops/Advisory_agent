@@ -1,0 +1,30 @@
+{
+  "school_name": "PoC Test Preschool",
+  "contacts": {
+    "safeguarding_lead": "Ms. Priya Sharma — safeguarding@poc-test-school.example",
+    "counsellor": "Mr. Raj Patel — counsellor@poc-test-school.example",
+    "principal": "Dr. Ananya Reddy — principal@poc-test-school.example"
+  },
+  "policies": {
+    "bullying": {
+      "title": "Anti-Bullying Policy",
+      "text": "Our preschool is committed to a safe, inclusive environment. Bullying includes repeated unkind behaviour, exclusion, or intimidation. Staff respond promptly, document incidents, and involve families. Restorative conversations and positive behaviour support are preferred over punishment.",
+      "last_reviewed": "2025-08-01"
+    },
+    "wellbeing": {
+      "title": "Child Wellbeing Policy",
+      "text": "We prioritise children's emotional and physical wellbeing. Teachers observe developmental milestones, communicate concerns sensitively with families, and refer to counsellors when needed. Outdoor play, rest, and nutrition are part of daily routines.",
+      "last_reviewed": "2025-08-01"
+    },
+    "pickup_safety": {
+      "title": "Pickup and Drop-off Safety",
+      "text": "Only authorised adults listed on the enrolment form may pick up children. Photo ID may be requested. Children are released only to named adults. Late pickups are logged and families contacted. Emergency contacts must be kept current.",
+      "last_reviewed": "2025-08-01"
+    },
+    "behaviour_support": {
+      "title": "Positive Behaviour Support",
+      "text": "We use positive behaviour support (PBS) strategies: clear expectations, visual routines, redirection, and teaching replacement behaviours. Physical punishment, shaming, and isolation are not permitted. Persistent concerns trigger a team meeting with parents.",
+      "last_reviewed": "2025-08-01"
+    }
+  }
+}

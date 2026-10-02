@@ -1,0 +1,4 @@
+# Add to lnpl_erp_dev_v1/src/components/Applicant/dashboard_applicant.js
+# Inside sections.student.links array (~line 62, after LessonPlan):
+
+{ to: "/advisor", label: "Parent/Teacher Advisor" },

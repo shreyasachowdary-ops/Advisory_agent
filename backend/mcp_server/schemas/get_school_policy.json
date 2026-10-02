@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "properties": {
+    "policy_type": {
+      "type": "string",
+      "enum": ["bullying", "wellbeing", "pickup_safety", "behaviour_support"]
+    },
+    "school_id": { "type": "string" }
+  },
+  "required": ["policy_type"]
+}

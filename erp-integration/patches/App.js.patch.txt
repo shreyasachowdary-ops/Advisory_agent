@@ -1,0 +1,17 @@
+# Add to lnpl_erp_dev_v1/src/components/App.js
+
+# 1. Add import (with other Page imports, ~line 18):
+import AdvisorPage from "../Pages/AdvisorPage";
+
+# 2. Add route inside <Routes> (e.g. after /leaveregister route, ~line 226):
+<Route path="/advisor" element={<AdvisorPage />} />
+
+# Optional: restrict to admin/teacher roles (match your RoleRoute pattern):
+# <Route
+#   path="/advisor"
+#   element={
+#     <RoleRoute allowedRoles={["admin", "teacher", "student"]}>
+#       <AdvisorPage />
+#     </RoleRoute>
+#   }
+# />

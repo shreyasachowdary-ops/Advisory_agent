@@ -1,0 +1,10 @@
+{
+  "type": "object",
+  "properties": {
+    "category": { "type": "string", "minLength": 1 },
+    "severity": { "type": "string", "enum": ["low", "medium", "high", "critical"] },
+    "user_summary": { "type": "string", "minLength": 1, "maxLength": 2000 },
+    "user_confirmed": { "type": "boolean", "default": false }
+  },
+  "required": ["category", "severity", "user_summary", "user_confirmed"]
+}
